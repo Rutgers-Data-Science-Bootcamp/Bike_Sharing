@@ -25,4 +25,7 @@ Links are: [Deliverable2](https://public.tableau.com/app/profile/shirali2014/viz
 
 ##### New York Citi Bike data visualizations for August 2019
 ![Screen Shot 2022-09-06 at 12 57 00 AM](https://user-images.githubusercontent.com/65901034/188550293-019a24f5-5e00-4e20-999d-01626c07248a.png)
-
+- There were over 2.3 million rides for the month of August 2019.
+- 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
+- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+- Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
