@@ -36,4 +36,16 @@ Links are: [Deliverable2](https://public.tableau.com/app/profile/shirali2014/viz
 #### Check out time by Gender and by weekdays 
 ![Screen Shot 2022-09-06 at 1 02 01 AM](https://user-images.githubusercontent.com/65901034/188550779-7103c14b-54f4-4b1a-9c1c-f68848f0e7a1.png)
 - Male users take approximately 3 times more rides than the female users.
-- 
+
+#### Trips by gender and weekdays per hour 
+![Screen Shot 2022-09-06 at 1 03 50 AM](https://user-images.githubusercontent.com/65901034/188550984-a6f73cda-29ed-4295-813a-6fc1e7797bc1.png)
+- Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+- Weekend rides are highest from 10:00 AM to 7:00 PM.
+
+
+### Summary 
+The visualized data by this project is for the bike sharing in New York during the month of August 2019.
+The far majority of the rides were taken by male users during morning and evening rush hours and shows that Manhattan Island is the most busy area for stating location. 
+Additional analysis would be beneficial by :
+- comparing data for different months to determine trends across the year,
+- including weather data to find the correlation between the weather and the rides.
