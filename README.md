@@ -23,4 +23,6 @@ Use Tableau to create effective visualizations from the Citi Bike data to potent
 ###  there are two deliverables were deployed in Tableau for the analysis
 Links are: [Deliverable2](https://public.tableau.com/app/profile/shirali2014/viz/challenge14_Deliverable2/TripsbyGenderbyWeekday), [Deliverable3](https://public.tableau.com/app/profile/shirali2014/viz/challenge14_Deliverable3/Deliverable3_Story);
 
+##### New York Citi Bike data visualizations for August 2019
+![Screen Shot 2022-09-06 at 12 57 00 AM](https://user-images.githubusercontent.com/65901034/188550293-019a24f5-5e00-4e20-999d-01626c07248a.png)
 
