@@ -27,5 +27,13 @@ Links are: [Deliverable2](https://public.tableau.com/app/profile/shirali2014/viz
 ![Screen Shot 2022-09-06 at 12 57 00 AM](https://user-images.githubusercontent.com/65901034/188550293-019a24f5-5e00-4e20-999d-01626c07248a.png)
 - There were over 2.3 million rides for the month of August 2019.
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
-- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+
+#### Top starting stations and August Peak Hours
+![Screen Shot 2022-09-06 at 1 00 11 AM](https://user-images.githubusercontent.com/65901034/188550576-d8a6acd3-dcd8-4445-bb29-44597b901e1f.png)
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
+- Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
+
+#### Check out time by Gender and by weekdays 
+![Screen Shot 2022-09-06 at 1 02 01 AM](https://user-images.githubusercontent.com/65901034/188550779-7103c14b-54f4-4b1a-9c1c-f68848f0e7a1.png)
+- Male users take approximately 3 times more rides than the female users.
+- 
