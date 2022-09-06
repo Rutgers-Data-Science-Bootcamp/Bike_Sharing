@@ -1,5 +1,7 @@
-# Bikesharing
+#     NYC CitiBike Sharing Analysis
 Use Tableau to create effective visualizations from the Citi Bike data to potential investors. 
+
+## Data Sources 
 Start analysing the data with following question:
 
       - how many bike trips were recorded during the month of August?
